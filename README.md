@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Reman, a Full-Stack Web Development. 
+
+I can make anything i want.
+
+I build and design web.
+
+I specialize in both front-end and Back-end.
+
+I use HTML, CSS, JS, React, python, MySQL.
+
+all i have personal project and I'm self-driven.
+
+###You can reach me:
+***Email:***devreman.web@gmail.com
