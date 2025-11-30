@@ -26,5 +26,5 @@ I use HTML, CSS, JS, React, python, MySQL.
 
 all i have personal project and I'm self-driven.
 
-###You can reach me:
-***Email:***devreman.web@gmail.com
+### You can reach me:
+*** Email: ***devreman.web@gmail.com
