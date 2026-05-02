@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm Reman, a Full-Stack Web Development. 
 
-I can make anything i want.
-
 I build and design web.
 
 I specialize in both front-end and Back-end.
